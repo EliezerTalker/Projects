@@ -1,0 +1,56 @@
+/*selector
+{
+	property = value;
+}*/
+
+#NavigationButtons {
+
+	text-align: center;
+}
+
+body {
+	background-image: url(https://images.unsplash.com/photo-1559827361-26df931e1d2f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80);
+	background-position: top;
+}
+h2 {
+	text-align: center;
+	border: 5px solid rgba(212, 127, 106,0.4);
+	cursor: pointer;
+	color: #802A15;
+}
+
+p {
+	color: #790647;
+}
+
+.Loren
+{
+   border: 5px solid rgba(255,0,200,0.5);
+   text-align: center;
+   color:#790647;
+   background-color: rgba(100,100,100,0.4);
+   cursor: pointer;
+   font-weight: bolder;	
+}
+
+.Loren:last-child
+{
+	border: 5px dashed rgba(0,0,200,0.4);
+	cursor: no-drop;
+}
+
+.Loren:first-child
+{
+	border: 5px dashed rgba(0,250,0,0.4);
+	cursor: progress;
+}
+
+#id1 {
+
+	background-color: rgba(200,180,20,0.4);
+}
+
+li {
+	list-style: none;  	
+	display: inline-block;
+}

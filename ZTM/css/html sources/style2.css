@@ -1,0 +1,53 @@
+
+*{
+	text-align: center;
+}
+body {
+	background-image: url(https://images.unsplash.com/photo-1553034197-ffcfb7361406?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+	background-size: cover; ;
+}
+
+
+
+
+h2 {
+	color: #FD6A6E;
+}
+
+
+p{
+   border: 20px solid rgba(162, 54, 69,0.4);
+}
+
+#Lorem_ID
+{
+	font-size: 200%;
+	line-height: 80px;
+	font-weight: bolder;
+	font-family: 'Hanalei', cursive;
+	background-color: rgba(78, 186, 186,0.5);
+}
+
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+img{
+	float: right;
+}
+
+
+.BoxModel{
+	border: 5px solid rgba(6, 106, 55,0.4);
+	padding:5px 20px 5px 20px;
+	margin: 0px 20px 0px 20px;
+	width:20px;
+	height:15px;
+	display: inline-block;
+}
+
+#Login{
+	background-image: none;
+}
